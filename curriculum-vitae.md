@@ -46,7 +46,7 @@
 
 ---
 
-# [🛠️ Технический опыт](tools.md)
+# [🛠️ Технический опыт](./about-me/tools.md)
 
 ### 🤖 Machine Learning & Deep Learning
 - PyTorch, PyTorch-Lightning
